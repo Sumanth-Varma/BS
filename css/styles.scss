@@ -73,3 +73,29 @@ body{
     bottom: 0px;
     z-index: 1;
 }
+
+.modal-dialog
+{
+	max-width:600px;
+}
+
+.modal-header
+{
+	background-color:$background-dark;
+	color:floralwhite;
+}
+
+.modal-body
+{
+	background-color:$background-light;
+}
+
+#closemodal
+{
+	color:floralwhite;
+}
+
+#reserveClose
+{
+	color:floralwhite;
+}
